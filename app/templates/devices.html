@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Devices</h2>
+
+<form method="get" class="row g-3 mb-3">
+  <div class="col">
+    <input type="text" class="form-control" name="id" placeholder="Search by Device ID" value="{{ request.args.get('id', '') }}">
+  </div>
+  <div class="col">
+    <input type="text" class="form-control" name="location" placeholder="Search by Location" value="{{ request.args.get('location', '') }}">
+  </div>
+  <div class="col">
+    <select name="status" class="form-select" >
+      <option disabled selected value="">Search By Status</option>
+      <option value="online" {% if request.args.get('status') == 'online' %}selected{% endif %}>Online</option>
+      <option value="offline" {% if request.args.get('status') == 'offline' %}selected{% endif %}>Offline</option>>
+    </select>
+ </div>
+  <div class="col-auto">
+    <button type="submit" class="btn btn-primary">Search</button>
+    <a href="{{ url_for('device.list_devices') }}" class="btn btn-secondary">Reset</a>
+  </div>
+</form>
+
+<div class="mb-3">
+  <a href="{{ url_for('device.add_device') }}" class="btn btn-success">Add Device</a>
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th> Device ID</th>
+      <th>Name</th>
+      <th>Location</th>
+      <th>Device Type</th>
+      <th>Status</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for device in devices %}
+    <tr>
+      <td>{{ device.id }}</td>
+      <td>{{ device.name }}</td>
+      <td>{{ device.location }}</td>
+      <td>{{ device.device_type }}</td>
+      <td>{{ device.status }}</td>
+      <td>
+        <a href="{{ url_for('device.update_device', id=device.id) }}" class="btn btn-warning btn-sm">Edit</a>
+        <a href="{{ url_for('device.delete_device', id=device.id) }}" class="btn btn-danger btn-sm">Delete</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% set args = request.args.to_dict() %}
+{% set _ = args.pop('page', None) %}
+{{ render_pagination(pagination, 'device.list_devices', args) }}
+
+{% endblock %}

@@ -1,0 +1,1629 @@
+[2025-06-26 15:28:10,652] ERROR in utils: Logger initialized and writing to app.log.
+[2025-06-26 15:28:12,609] ERROR in utils: Logger initialized and writing to app.log.
+[2025-06-26 15:46:14,892] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-26 15:46:29,102] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-26 15:46:30,965] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-26 16:59:23,629] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 16:59:28,146] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:07:11,415] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:07:28,527] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:07:29,770] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:12:28,523] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:12:33,505] ERROR in utils: Logger initialized. Errors will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:13:43,911] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:14:29,605] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:14:34,759] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:16:51,015] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:17:15,313] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:17:25,178] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-26 17:17:26,461] INFO in utils: Logger initialized. Logs will be written to: E:\pro\flask_html\logs\app.log
+[2025-06-27 14:35:31,748] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 14:35:36,898] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 14:55:24,359] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 14:55:32,665] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 14:56:17,906] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:08:51,574] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:08:57,360] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:09:34,960] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:09:37,022] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:10:17,672] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:11:28,464] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:12:26,652] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:12:43,633] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:12:44,974] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:33:59,184] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:00,788] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:04,111] ERROR in diagnostics: [Diagnostics List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:04,725] ERROR in diagnostics: [Diagnostics List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:05,494] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:11,338] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:12,216] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:12,472] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:12,633] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:34:40,528] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:35:47,452] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:35:55,563] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:35:56,816] ERROR in diagnostics: [Diagnostics List Error] 'render_pagination' is undefined
+[2025-06-27 15:36:32,464] ERROR in diagnostics: [Diagnostics List Error] 'render_pagination' is undefined
+[2025-06-27 15:36:35,067] ERROR in device: [Device List Error] 'render_pagination' is undefined
+[2025-06-27 15:52:41,922] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:52:51,005] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:55:03,742] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:55:30,316] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:55:42,942] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:56:07,028] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 15:56:19,394] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:21,728] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:23,474] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:28,974] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:30,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:40,458] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:56:42,651] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:57:38,350] ERROR in device: Device listing failed: 'render_pagination' is undefined
+[2025-06-27 15:57:38,438] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 15:57:39,785] ERROR in diagnostics: Error listing diagnostics: 'render_pagination' is undefined
+[2025-06-27 15:57:39,843] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:34,286] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 16:03:38,214] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 16:03:38,976] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:40,638] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:42,073] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:44,438] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:48,511] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:03:58,123] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:04:01,014] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:04:12,607] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:04:14,061] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:04:44,333] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:04:49,687] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:05:09,743] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:05:16,343] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:05:19,860] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:05:41,826] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:05:56,857] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:06:06,265] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:06:22,751] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:06:41,745] ERROR in diagnostics: Error listing diagnostics: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:41,763] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,070] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,086] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,100] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,115] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,130] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,143] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,162] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,175] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,197] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,214] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,228] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,240] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,256] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,275] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,289] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,306] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,322] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:42,340] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:43,449] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:43,487] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:43,520] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:43,546] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,421] ERROR in diagnostics: Error listing diagnostics: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,446] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,485] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,516] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,551] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,595] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,632] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,675] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,712] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,750] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,781] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,811] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,851] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,884] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,920] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,964] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:48,999] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:49,043] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:49,079] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:49,116] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,738] ERROR in diagnostics: Error listing diagnostics: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,754] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,776] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,794] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,812] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,829] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,848] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,874] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,895] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,911] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,929] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,947] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,975] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:51,996] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,013] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,029] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,047] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,062] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,078] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:52,092] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,223] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,255] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,279] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,429] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,461] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,478] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,495] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,514] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,547] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,576] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,594] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,610] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,628] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,674] ERROR in device: Device listing failed: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,689] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,713] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,739] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,788] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,809] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,824] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,842] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,855] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,869] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,888] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,905] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,920] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,937] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,954] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,972] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:53,988] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:54,010] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:54,036] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:54,061] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,188] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,227] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,255] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,272] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,289] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,307] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,322] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,338] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,353] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,370] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,387] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,405] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,422] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,444] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,462] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,485] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,506] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,523] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,540] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:06:55,559] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,030] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,063] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,098] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,144] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,176] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,208] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,236] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,265] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,294] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,328] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,370] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,395] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,424] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,452] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,495] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,521] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,572] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,617] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,643] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:08,667] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,159] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,400] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,425] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,447] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,471] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,496] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,519] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,555] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,585] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,611] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,635] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,661] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,693] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,723] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,753] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,786] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,813] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,842] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,880] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:09,909] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,098] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,332] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,406] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,456] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,502] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,532] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,567] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,596] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,634] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,662] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,696] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,746] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,787] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,823] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,856] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,893] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,925] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:11,963] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:12,009] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:12,047] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:38,114] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 16:07:42,229] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 16:07:42,479] ERROR in main: Error loading home page
+Traceback (most recent call last):
+  File "E:\pro\New folder\flask_html\app\routes\main.py", line 13, in home
+    return render_template('home.html')
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 1295, in render
+    self.environment.handle_exception()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\home.html", line 1, in top-level template code
+    {% extends 'base.html' %}
+  File "E:\pro\New folder\flask_html\venv\Lib\site-packages\jinja2\environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "E:\pro\New folder\flask_html\app\templates\base.html", line 21, in template
+    <a class="page-link" href="{{ url_for(endpoint, page=page_num, **args) }}">{{ page_num }}</a>
+    ^^^^^^^^^^^
+jinja2.exceptions.TemplateSyntaxError: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,596] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,636] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,663] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,693] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,718] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,733] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,752] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,769] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,796] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,816] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,836] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,852] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:42,879] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,000] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,032] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,044] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,055] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,079] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:43,096] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,191] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,207] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,230] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,249] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,268] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,293] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,314] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,336] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,366] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,395] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,412] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,432] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,448] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,466] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,495] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,516] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,536] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,560] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,585] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:44,604] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,735] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,760] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,780] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,802] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,829] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,850] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,870] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,888] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,915] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,946] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:49,978] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,008] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,031] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,058] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,080] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,107] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,125] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,146] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,175] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:50,194] ERROR in auth: Login error: Unexpected end of template. Jinja was looking for the following tags: 'elif' or 'else' or 'endif'. The innermost block that needs to be closed is 'if'.
+[2025-06-27 16:07:56,198] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:08:02,480] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:08:41,295] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:08:43,631] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:03,377] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:04,445] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:04,776] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:37,368] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:57,570] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:09:59,180] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:17,630] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:18,147] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:18,334] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:18,550] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:29,566] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:29,991] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:30,250] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:10:30,432] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:32:13,347] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:32:13,566] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:35:42,324] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:38:46,100] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:38:50,962] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:38:52,718] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:38:58,207] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:39:02,296] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:39:04,737] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:43:19,957] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:43:22,088] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:44:36,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:44:51,206] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:44:52,796] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:45:42,474] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:47:11,233] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:49:05,765] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:49:14,517] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:49:28,541] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:50:02,221] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:51:34,023] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:51:38,725] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:53:09,416] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:09,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:09,960] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:10,610] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:10,834] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:10,989] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:24,142] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:24,877] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:54:49,930] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:55:04,326] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:57:58,114] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:59:06,907] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:59:07,749] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:59:07,959] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:59:08,131] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 16:59:54,424] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:00:14,739] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:00:15,487] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:00:15,873] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:00:16,040] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:01:01,483] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:01:33,405] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:01:47,809] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:01:54,938] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:00,352] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:02,071] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:06,878] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:07,611] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:10,742] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:11,524] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:24,916] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:02:47,891] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:03:08,424] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:04:41,535] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:04:43,634] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:04:45,452] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:06:19,013] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:06:20,349] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:06:33,539] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:06:34,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:07:41,232] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:07:50,036] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:07:55,057] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:07:57,436] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:08:20,022] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:08:36,756] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:08:44,382] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:08:53,319] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:09:26,063] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:09:48,394] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:10:21,579] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:11:39,031] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:12:00,044] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:12:56,988] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:13:08,600] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:13:20,523] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:13:43,771] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:13:47,450] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:14:21,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:14:35,185] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:14:57,819] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:15:13,120] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:15:24,330] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:15:33,550] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:15:50,812] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:15:58,035] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:16:07,962] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:17:09,288] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:17:26,745] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:17:33,417] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:17:38,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:31:41,711] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:33:02,182] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:34:07,070] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:34:08,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:34:44,381] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:34:48,072] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:34:55,371] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:06,739] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:09,874] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:11,397] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:12,395] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:15,320] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:16,256] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:16,986] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:17,783] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:18,535] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:20,342] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:22,133] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:23,717] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:29,635] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:34,810] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:38,382] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:41,329] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:35:51,612] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:36:22,980] ERROR in auth: Registration error: (sqlite3.IntegrityError) UNIQUE constraint failed: user.username
+[SQL: INSERT INTO user (username, password) VALUES (?, ?)]
+[parameters: ('bari', 'scrypt:32768:8:1$IwlTqPy8fRcy85P1$e124259829ec914714aab3cbb8085f8d76b2efa25c11d4e059406bbaa297ac0e22c4e19ba4878e9c84bff34f9979dd68eb5f52d0043e69379a92d7025a7a4ccd')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2025-06-27 17:36:23,050] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:36:54,699] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:37:01,845] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:37:12,929] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:37:19,729] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:37:48,076] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:37:50,217] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:38:07,551] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:44:00,283] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:44:05,476] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:44:10,253] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:44:36,220] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:45:10,852] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:45:12,593] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:45:35,935] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:45:45,560] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:46:32,211] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:47:03,315] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:47:44,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:47:48,356] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:48:28,124] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:48:33,377] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:48:38,833] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:48:41,094] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:17,578] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:19,760] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:22,621] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:32,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:34,509] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:35,875] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:37,754] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:49:40,296] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:50:22,226] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:50:34,186] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:50:36,054] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:56:51,530] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:27,605] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:43,718] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:44,330] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:49,261] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:49,826] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:57:56,535] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:58:39,849] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:58:52,385] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:58:53,970] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:58:57,563] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:16,839] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:21,326] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:22,810] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:45,573] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:49,018] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:53,026] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 17:59:54,112] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:00:06,732] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:00:20,542] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:00:22,705] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:02:12,241] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:02:36,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:02:53,392] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:05,168] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:07,598] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:11,479] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:13,165] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:19,441] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:23,102] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:25,046] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:26,129] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:27,329] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:28,447] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:29,389] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:30,836] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:32,882] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:34,383] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:35,405] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:38,572] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:42,480] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:03:44,131] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:04:00,143] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:04:09,557] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:04:13,943] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:04:17,569] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:05:42,997] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:05:44,506] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:05:55,586] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:07:33,696] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:07:43,664] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:07:45,629] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:07:54,886] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:07:58,452] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:08:03,674] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:08:05,059] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:08:18,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:08:23,409] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:08:25,577] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:05,226] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:06,304] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:08,962] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:10,823] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:17,975] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:21,869] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:23,496] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:55,088] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:10:56,372] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:10,283] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:15,417] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:17,863] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:22,690] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:25,613] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:29,817] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:11:44,646] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:12:46,040] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 18:12:50,003] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:12:52,294] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:12:56,142] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:00,356] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:02,983] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:13,666] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:17,695] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:30,994] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:32,518] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:33,398] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:13:47,371] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:02,093] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:02,867] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:03,067] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:05,063] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:12,268] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:17,054] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:31,726] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:34,445] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:29:36,323] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:05,149] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:23,892] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:42,913] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:44,215] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:50,740] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:30:55,113] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:01,186] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:12,162] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:17,994] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:20,832] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:22,428] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:44,588] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:45,988] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:31:51,474] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:00,421] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:14,760] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:24,694] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:26,242] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:30,352] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:33,855] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:48,986] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:32:59,721] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:04,851] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:07,930] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:12,287] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:14,960] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:17,014] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:17,705] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:21,056] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:27,118] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:32,343] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:36,280] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:39,205] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:40,588] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:40,865] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:41,335] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:41,608] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:45,808] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:49,132] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:54,709] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:56,716] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:33:59,789] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:02,050] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:05,883] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:08,649] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:13,214] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:14,875] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:18,614] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:22,499] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:27,544] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:36,942] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:40,838] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:43,672] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:45,567] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:34:53,333] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:00,204] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:02,489] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:05,264] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:07,174] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:16,385] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:33,931] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:39,064] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:41,986] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:44,215] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:48,729] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:53,711] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:35:59,769] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:02,933] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:22,481] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:28,232] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:32,509] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:35,638] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:39,551] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:45,456] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:36:54,692] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:37:03,685] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:37:16,064] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:37:20,479] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:37:56,989] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:37:58,504] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:02,063] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:03,716] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:12,275] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:14,415] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:16,445] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:20,715] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:45,311] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:38:53,070] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:39:03,610] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:39:11,114] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:40:43,937] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:40:51,757] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:03,006] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:05,364] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:09,429] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:09,558] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:10,619] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:12,282] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:14,265] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:41:16,530] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:29,583] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:33,959] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:37,929] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:41,273] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:42,798] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:45,003] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:55,256] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:42:57,309] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:00,048] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:02,196] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:07,846] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:11,722] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:17,165] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:18,889] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:45,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:43:50,001] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:44:08,916] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:44:19,015] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:44:28,322] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:44:51,820] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:44:53,454] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:45:03,399] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:45:04,618] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:45:14,985] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:45:17,917] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:46:13,153] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:46:15,850] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:48:53,265] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:48:54,463] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:36,173] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:37,396] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:40,319] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:41,859] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:50,191] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:49:51,597] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:50:17,709] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:50:24,235] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:50:30,397] WARNING in main: 404 Not Found: /homegrgeg
+[2025-06-27 18:50:30,489] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:50:32,178] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:50:45,481] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:51:53,584] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:51:55,165] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:20,664] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:22,847] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:31,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:32,931] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:41,616] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:44,209] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:49,674] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:52:51,047] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:53:05,486] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:53:38,362] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:53:38,820] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:53:41,103] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:53:48,699] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:57:37,288] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:57:49,030] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:03,178] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:13,006] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:26,589] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:37,476] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:39,977] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:40,614] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:40,799] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:43,650] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:44,960] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:58:47,273] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:59:06,928] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:59:24,913] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:59:25,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 18:59:31,111] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:13,740] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:17,594] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:19,925] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:29,189] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:32,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:00:37,027] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:01:30,103] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:01:43,849] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:01:46,010] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:01:48,262] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:01:49,197] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:11,128] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:12,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:16,323] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:17,287] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:19,029] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:20,349] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:21,785] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:25,821] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:02:57,108] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:03,359] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:07,460] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:10,394] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:13,087] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:16,791] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:17,405] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:44,526] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:50,294] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:53,353] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:03:56,540] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:04:37,743] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:04:44,512] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:04:48,145] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:04:51,708] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:04:54,334] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:02,904] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:04,510] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:05,087] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:07,494] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:08,506] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:09,286] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:11,305] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:24,912] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:26,108] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:27,392] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:28,459] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:33,579] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:33,750] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:33,962] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:34,117] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:42,333] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:45,257] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:05:46,568] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:17,499] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:18,078] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:18,483] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:24,752] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:25,497] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:26,210] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:06:31,616] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:15,191] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:18,281] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:24,758] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:26,329] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:29,273] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:07:31,800] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:08:13,783] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:09:08,695] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:09:27,715] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:09:28,541] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:12:00,343] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:12:10,508] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:12:13,342] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:12:46,348] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:12:55,991] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:00,785] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:14,008] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:42,622] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:47,808] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:48,202] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:48,421] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:48,780] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:49,100] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:49,380] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:49,780] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:13:56,662] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:14:01,555] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:14:03,711] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:14:06,581] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:14:28,376] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:14:33,474] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:15:08,048] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:15:12,948] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:19,302] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:16:23,809] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:16:31,510] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:38,020] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:40,470] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:43,184] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:44,763] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:46,462] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:53,509] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:54,606] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:16:56,401] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:05,011] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:07,488] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:08,803] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:10,124] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:18,519] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:19,818] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:17:22,815] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:18:08,196] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:12,032] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:15,412] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:21,689] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:24,720] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:27,862] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:31,154] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:34,228] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:38,709] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:46,876] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:51,984] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:54,881] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:18:58,135] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:19:02,839] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:21:23,589] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:21:26,583] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:21:30,468] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:27:26,775] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:28,674] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:31,930] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:34,748] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:38,471] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:41,558] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:27:44,748] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:00,291] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:28:00,512] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:03,579] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:08,628] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:12,227] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:32,347] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:28:35,310] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:37,877] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:50,030] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:28:51,700] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:28:54,129] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:55,979] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:28:59,271] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:00,790] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:05,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:06,265] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:12,010] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:13,015] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:16,237] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:17,469] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:19,606] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:22,135] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:23,086] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:26,270] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:29,079] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:31,902] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:33,626] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:34,825] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:29:38,189] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:17,514] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:32:19,494] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:29,576] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:32:31,088] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\flask_html\logs\app.log
+[2025-06-27 19:32:35,245] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:36,981] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:40,197] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:41,295] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:42,481] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:48,740] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:49,784] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:52,949] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:32:54,956] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:53:19,726] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 19:53:21,790] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 19:53:48,507] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:53:52,540] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:00,333] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:07,363] WARNING in main: 404 Not Found: /home4353
+[2025-06-27 19:54:07,479] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:09,831] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:17,010] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:20,568] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:23,029] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:27,452] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:28,669] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:31,746] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:32,143] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:32,519] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:51,402] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:54:53,870] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:56:47,956] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:56:49,049] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:56:50,247] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:56:58,037] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:10,181] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:15,008] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:24,849] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:30,561] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:32,180] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:33,423] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:37,751] WARNING in main: 404 Not Found: /devices/update/2
+[2025-06-27 19:57:37,852] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:41,616] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:43,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:44,814] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:52,175] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:56,624] WARNING in main: 404 Not Found: /devices/update/21
+[2025-06-27 19:57:56,704] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:57:59,540] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:58:20,188] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:58:32,837] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:58:34,452] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:58:39,921] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:58:45,003] ERROR in diagnostics: Error updating diagnostic (ID 13): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 19:58:45,098] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:04,096] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:08,037] ERROR in diagnostics: Error updating diagnostic (ID 23): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 19:59:08,158] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:11,495] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:12,499] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:13,983] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:18,192] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:22,223] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:26,035] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:29,592] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:37,196] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:41,196] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 19:59:58,100] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:03,847] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:05,913] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:07,362] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:10,407] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:11,325] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:00:12,993] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:01:05,198] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:01:36,992] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:02:05,695] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 20:02:07,277] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 20:02:11,206] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:27,203] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:41,575] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:44,999] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:48,634] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:51,989] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:57,122] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:03:59,807] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:02,167] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:04,720] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:06,247] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:12,424] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:14,359] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:15,826] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:17,755] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:18,425] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:20,488] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:21,901] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:26,542] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:04:45,499] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:02,967] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:12,840] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:14,636] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:17,078] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:18,268] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:20,903] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:22,980] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:25,578] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:28,716] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:30,085] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:33,856] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:38,415] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:47,759] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:05:51,384] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:08,391] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:19,160] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:23,847] WARNING in main: 404 Not Found: /hometrtr
+[2025-06-27 20:06:23,977] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:25,888] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:28,124] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:29,305] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:32,648] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:37,401] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:38,362] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:38,781] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:41,312] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:45,787] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:47,526] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:51,372] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:52,789] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:54,182] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:06:59,128] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:00,679] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:06,595] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:10,439] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:14,050] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:18,055] ERROR in diagnostics: Error updating diagnostic (ID 18): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 20:07:18,202] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:21,592] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:22,711] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:24,977] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:26,665] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:27,618] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:32,142] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:34,437] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:38,336] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:07:54,100] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:08:07,568] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:08:21,112] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:08:25,043] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:08:26,724] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:07,552] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:10,002] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:11,372] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:14,170] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:26,922] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:32,268] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:54,120] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:09:58,217] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:09,908] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:18,135] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:21,236] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:26,234] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:32,080] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:39,848] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:45,222] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:46,228] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:10:52,137] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:03,313] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:12,069] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:26,251] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:27,690] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:28,724] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:30,073] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:34,185] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:35,301] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:38,006] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:39,733] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:46,990] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:50,277] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:51,986] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:11:53,453] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:15,472] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:23,076] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:36,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:37,713] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:46,675] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:12:54,850] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:13:56,636] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:14:09,219] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:14:17,762] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:14:22,240] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:14:23,909] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:00,709] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:04,969] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:18,158] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:20,358] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:23,424] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:24,820] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:28,572] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:30,232] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:34,524] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:36,529] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:37,464] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:39,054] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:43,786] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:47,115] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:48,466] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:50,676] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:51,888] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:56,345] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:15:59,441] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:01,722] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:07,301] ERROR in diagnostics: Error updating diagnostic (ID 16): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 20:16:07,531] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:10,003] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:13,477] WARNING in main: 404 Not Found: /homer4greg
+[2025-06-27 20:16:13,637] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:17,189] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:20,804] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:23,572] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:24,911] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:28,552] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:32,210] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:34,065] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:16:52,077] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:05,783] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:21,368] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:28,242] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:29,997] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:31,701] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:17:50,625] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:18:05,441] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:18:21,035] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:18:32,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:18:34,374] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:18:37,474] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:06,411] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:12,648] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:14,935] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:18,070] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:19,333] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:23,660] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:27,214] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:34,272] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:35,687] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:38,233] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:39,168] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:44,928] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:47,842] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:49,095] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:50,488] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:52,970] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:54,071] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:55,346] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:19:56,634] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:01,245] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:03,287] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:04,705] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:09,958] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:13,292] ERROR in diagnostics: Error updating diagnostic (ID 17): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 20:20:13,590] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:14,888] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:18,699] WARNING in main: 404 Not Found: /home3454gg45
+[2025-06-27 20:20:18,861] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:21,395] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:23,805] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:20:46,400] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:02,662] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:05,783] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:08,168] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:23,075] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:24,945] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:26,279] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:27,888] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:21:38,842] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:26:40,529] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:26:55,082] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:27:06,706] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:27:08,385] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:27:22,910] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:27:35,271] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:27:41,903] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:03,346] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:14,151] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:15,683] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:18,065] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:29,349] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:30,982] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:35,298] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:40,234] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:42,691] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:44,971] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:46,412] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:49,558] WARNING in main: 404 Not Found: /homegge
+[2025-06-27 20:28:49,779] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:51,605] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:53,669] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:54,873] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:28:57,639] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:07,565] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:15,975] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:19,460] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:22,784] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:26,623] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:34,658] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:36,215] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:40,061] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:41,280] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:42,381] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:45,041] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:48,567] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:29:50,414] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:02,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:17,024] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:27,651] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:30,006] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:31,873] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:41,990] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:44,693] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:45,912] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:30:47,883] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:31:07,914] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:31:11,681] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:45:36,716] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:50:49,913] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 20:50:54,410] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 20:51:11,509] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:51:38,175] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:51:58,307] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:51:59,431] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:52:04,748] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:52:14,769] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:52:20,572] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:52:48,492] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:52:59,795] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:12,976] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:14,723] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:16,067] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:17,697] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:18,913] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:20,170] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:25,871] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:29,427] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:39,411] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:49,489] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:55,222] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:53:56,404] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:01,778] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:05,996] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:08,888] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:11,141] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:14,439] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:16,282] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:22,540] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:34,502] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:54:53,819] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:11,425] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:19,622] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:21,279] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:23,190] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:24,525] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:28,086] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:31,816] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:35,794] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:36,799] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:39,525] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:42,902] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:50,398] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:54,495] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:57,152] WARNING in main: 404 Not Found: /home656
+[2025-06-27 20:55:57,337] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:55:59,894] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:03,368] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:06,269] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:10,027] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:13,114] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:16,380] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:17,494] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:18,809] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:23,725] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:25,957] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:26,769] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:29,537] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:31,538] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:33,849] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:37,679] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:56:39,591] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:57:00,037] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:57:27,916] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:57:45,783] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:06,633] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:07,746] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:09,529] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:10,480] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:12,380] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:24,463] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:26,590] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:30,434] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:43,554] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:45,568] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:58:59,968] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:01,230] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:02,199] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:03,388] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:08,942] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:11,602] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:17,736] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:25,058] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:28,158] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:35,654] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:37,676] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:39,149] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 20:59:57,734] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:09,115] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:11,588] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:13,213] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:17,197] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:23,475] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:25,392] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:31,723] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:37,286] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:44,370] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:49,234] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:51,133] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:53,785] WARNING in main: 404 Not Found: /homeggtr
+[2025-06-27 21:00:53,967] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:56,123] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:58,112] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:00:59,189] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:00,680] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:05,042] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:06,745] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:12,418] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:14,000] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:15,720] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:18,731] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:19,972] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:21,243] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:24,276] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:01:25,743] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:02:01,728] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:02:27,434] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:07:52,809] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 21:07:55,096] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 21:08:00,083] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:12,814] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:23,038] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:24,494] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:26,625] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:27,737] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:28,818] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:39,423] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:44,902] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:46,701] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:51,217] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:08:55,635] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:00,443] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:02,958] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:06,066] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:08,447] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:11,094] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:13,284] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:19,409] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:25,039] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:27,496] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:32,580] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:36,747] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:43,472] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:48,426] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:49,513] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:09:51,758] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:00,421] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:01,351] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:08,798] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:14,782] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:17,441] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:48,530] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:56,911] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:10:58,644] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:00,466] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:03,709] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:05,419] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:11,740] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:17,625] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:22,107] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:25,298] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:31,429] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:34,444] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:36,505] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:43,904] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:46,681] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:47,883] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:49,045] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:50,298] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:55,686] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:56,808] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:11:59,301] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:01,010] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:03,144] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:08,016] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:12,010] ERROR in diagnostics: Error updating diagnostic (ID 19): 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2025-06-27 21:12:12,312] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:13,558] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:18,008] WARNING in main: 404 Not Found: /hometrbrth
+[2025-06-27 21:12:18,332] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:21,067] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:22,453] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:41,037] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:55,039] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:57,455] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:12:58,918] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:14,958] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:16,423] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:18,538] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:22,200] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:30,816] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:13:35,222] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:30,669] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:31,603] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:31,671] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:32,216] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:43,269] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:22:45,245] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:04,321] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:12,469] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:22,143] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:52,464] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:55,575] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:56,596] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:23:58,492] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:00,249] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:08,868] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:11,995] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:20,041] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:24,305] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:40,640] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:55,244] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:24:57,977] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:25:00,099] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:25:02,497] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:25:10,494] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:25:11,479] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:25:16,263] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:08,830] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:10,127] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:14,093] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:15,540] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:41,743] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:45,066] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:26:47,987] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:52:16,768] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 21:52:19,156] INFO in utils: Logger initialized. Logs will be written to: E:\pro\New folder\FLASK PROJECT\logs\app.log
+[2025-06-27 21:52:23,882] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:52:32,802] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:52:34,288] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:53:00,932] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:53:04,274] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:53:10,790] WARNING in main: 404 Not Found: /favicon.ico
+[2025-06-27 21:53:13,192] WARNING in main: 404 Not Found: /favicon.ico

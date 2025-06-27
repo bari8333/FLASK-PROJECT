@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+  <h2 class="text-center">Welcome to the Device Monitoring Dashboard</h2>
+
+  <div class="text-center mt-4">
+    <a href="{{ url_for('device.list_devices') }}" class="btn btn-primary me-2">
+      Manage Devices
+    </a>
+    <a href="{{ url_for('diagnostics.list_diagnostics') }}" class="btn btn-secondary">
+      Manage Diagnostics
+    </a>
+  </div>
+{% endblock %}

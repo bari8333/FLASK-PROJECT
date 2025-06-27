@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Device Diagnostics</h2>
+
+  <!-- Search Form -->
+  <form method="get" class="row g-3 mb-3">
+    <div class="col">
+      <input type="text" class="form-control" name="id" placeholder="Search by Device ID">
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-primary">Search</button>
+      <a href="{{ url_for('diagnostics.list_diagnostics') }}" class="btn btn-secondary">Reset</a>
+    </div>
+  </form>
+
+  <!-- Add Button -->
+  <div class="mb-3">
+    <a href="{{ url_for('diagnostics.add_diagnostics') }}" class="btn btn-success">Add Diagnostics</a>
+  </div>
+
+  <!-- Sort Controls -->
+  <div class="mb-3">
+    <label>Sort by:</label>
+    <a href="{{ url_for('diagnostics.list_diagnostics', sort='cpu_usage') }}" class="btn btn-outline-primary btn-sm">CPU</a>
+    <a href="{{ url_for('diagnostics.list_diagnostics', sort='memory_usage') }}" class="btn btn-outline-primary btn-sm">Memory</a>
+    <a href="{{ url_for('diagnostics.list_diagnostics', sort='timestamp') }}" class="btn btn-outline-primary btn-sm">Timestamp</a>
+  </div>
+
+  <!-- Diagnostics Table -->
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Device ID</th>
+        <th>CPU Usage</th>
+        <th>Memory Usage</th>
+        <th>Timestamp</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in diagnostics %}
+        <tr>
+          <td>{{ d.id }}</td>
+          <td>{{ d.device_id }}</td>
+          <td>{{ d.cpu_usage }}</td>
+          <td>{{ d.memory_usage }}</td>
+          <td>{{ d.timestamp }}</td>
+          <td>
+            <a href="{{ url_for('diagnostics.update_diagnostics', id=d.id) }}" class="btn btn-warning btn-sm">Edit</a>
+            <a href="{{ url_for('diagnostics.delete_diagnostics', id=d.id) }}" class="btn btn-danger btn-sm">Delete</a>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <!-- Pagination -->
+  {% set args = request.args.to_dict() %}
+  {% set _ = args.pop('page', None) %}
+  {{ render_pagination(pagination, 'diagnostics.list_diagnostics', args) }}
+{% endblock %}
+
+
+

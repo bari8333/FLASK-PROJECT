@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Diagnostic{% endblock %}
+
+{% block content %}
+  <h2>Add Device Diagnostics </h2>
+
+  <form method="POST">
+    <div class="mb-3">
+      <label class="form-label">Device ID</label>
+      <select name="device_id" class="form-control" required>
+        <option value="" disabled selected>Select a device</option>
+        {% for device in devices %}
+          <option value="{{ device.id }}">{{ device.id }} - {{ device.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">CPU Usage (%)</label>
+      <input type="number" step="0.1" name="cpu_usage" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Memory Usage (MB)</label>
+      <input type="number" step="0.1" name="memory_usage" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Timestamp</label>
+      <input type="datetime-local" name="timestamp" class="form-control">
+      <small class="form-text text-muted">Optional. Defaults to current time.</small>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add Diagnostic</button>
+  </form>
+{% endblock %}

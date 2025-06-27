@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Device{% endblock %}
+
+{% block content %}
+  <h2>Add New Device</h2>
+
+  <form method="POST">
+    <div class="mb-3">
+      <label class="form-label">Device Name</label>
+      <input type="text" name="name" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Device Type</label>
+      <input type="text" name="device_type" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Status</label>
+      <select name="status" class="form-control" required>
+        <option disabled selected value="">-- Select Status --</option>
+        <option value="online">Online</option>
+        <option value="offline">Offline</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Location</label>
+      <input type="text" name="location" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-success">Add Device</button>
+  </form>
+{% endblock %}
