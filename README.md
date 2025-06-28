@@ -1,323 +1,220 @@
- Device Health Monitoring System
 
-A clean and beginner-friendly Flask web application for managing and monitoring IoT devices. Built as part of a Python learning journey, this project lets users securely register, log in, manage their own devices, and log diagnostics like CPU and memory usage — all with a simple UI and useful features.
+#  Device Health Monitoring System
 
- What This App Does
+A clean and beginner-friendly **Flask web application** for managing and monitoring IoT devices. Built as part of a Python learning journey, this project lets users securely register, log in, manage their own devices, and log diagnostics like CPU and memory usage — all with a simple UI and useful features.
+
+---
+
+##  What This App Does
 
 This app is designed for people who want to:
 
- Register and log in with a secure system
-
- Create and manage IoT devices (name, location, type, status)
-
- Log device diagnostics (CPU, memory usage, timestamp)
-
- Sort and filter data to find what matters
-
- Get instant feedback with flash messages
-
- Navigate easily with a responsive Bootstrap-powered UI
+- 🔐 Register and log in with a secure system  
+- 🛠️ Create and manage IoT devices (name, location, type, status)  
+- 📊 Log device diagnostics (CPU, memory usage, timestamp)  
+- 🔎 Sort and filter data to find what matters  
+- 💬 Get instant feedback with flash messages  
+- 🎨 Navigate easily with a responsive Bootstrap-powered UI  
 
 No need for complicated setups or APIs — just run the app and start managing your data.
 
- Project Folder Structure
+---
 
-FLASK_PROJECT/
+## 📁 Project Folder Structure
+
+```
+
+FLASK PROJECT/
 ├── app/
-│   ├── __init__.py             # App setup and JWT config
+│   ├── **init**.py             # App setup and JWT config
 │   ├── models.py               # Database models
 │   ├── utils.py                # Logging setup
 │   ├── schemas.py              # Marshmallow validation schemas
 │   ├── templates/              # HTML pages (Bootstrap)
-│   └── routes/                 # Application routes
+│   └── routes/
 │       ├── main.py             # Home page and error handling
 │       ├── auth.py             # Login, Register, Logout
 │       ├── device.py           # Device operations
 │       └── diagnostics.py      # Diagnostics operations
 ├── logs/
-│   └── app.log                 # Application log file
-├── config.py                   # App config settings
-├── run.py                      # Flask app entry point
-├── requirements.txt            # Required Python packages
-└── README.md                   # This file
+│   └── app.log
+├── config.py
+├── run.py
+├── requirements.txt
+└── README.md
 
- Authentication Features
+````
 
-Users can register and log in securely using JWT tokens (stored in cookies)
+---
 
-Input validation:
+## 🔐 Authentication Features
 
-Username: 3–20 characters (letters, numbers, underscore)
+- Secure login/register using **JWT** stored in cookies  
+- Username validation: 3–20 characters (letters, numbers, underscores)  
+- Password validation: Min 8 characters, includes uppercase, number, symbol  
+- Tracks sessions via `session['username']`  
+- Unauthorized access shows a flash message and logs the event  
 
-Password: At least 8 characters, 1 uppercase, 1 digit, 1 symbol
+---
 
-Tracks sessions using session['username']
+## 🛠️ Device Management
 
-Unauthorized access is blocked with alerts and logs
+- Fields: `name`, `device_type`, `status`, `location`  
+- Create, Read, Update, Delete (CRUD) support  
+- Search/filter by ID, location, status  
+- Pagination support (5 devices per page)  
 
- Device Management
+---
 
-Devices have: name, device_type, status, location
+## 📊 Diagnostics Logging
 
-CRUD operations: Add, Edit, Delete, View
+- Fields: `device_id`, `cpu_usage`, `memory_usage`, `timestamp`  
+- Filter diagnostics by device ID  
+- Sort diagnostics by `timestamp`, `CPU usage`, or `memory usage`  
+- Pagination support  
 
-Filter devices by ID, location, or status
+---
 
-Pagination included (5 devices per page)
+## 🧩 UI Pages (Templates)
 
- Diagnostics Logging
+| Page                     | Purpose                                |
+|--------------------------|----------------------------------------|
+| `base.html`              | Master layout + nav + flash            |
+| `home.html`              | Dashboard landing                      |
+| `login.html`             | Login form                             |
+| `register.html`          | Registration form                      |
+| `devices.html`           | Device list + filters                  |
+| `add_device.html`        | Add device form                        |
+| `update_device.html`     | Edit device form                       |
+| `diagnostics.html`       | Diagnostics table + sorting/filtering  |
+| `add_diagnostics.html`   | Add diagnostics entry                  |
+| `update_diagnostics.html`| Update diagnostics entry               |
 
-Linked to devices with fields: device_id, cpu_usage, memory_usage, timestamp
+---
 
-Filter diagnostics by device ID
+##   Getting Started
 
-Sort diagnostics by timestamp, CPU usage, or memory usage
-
-Pagination included for long lists
-
- Templates (UI Pages)
-
-Page
-
-Purpose
-
-base.html
-
-Shared layout, nav bar, flash messages
-
-home.html
-
-Welcome dashboard
-
-login.html
-
-Login form
-
-register.html
-
-Register form + validation tips
-
-devices.html
-
-List + filter + manage devices
-
-add_device.html
-
-Form to create a device
-
-update_device.html
-
-Form to edit a device
-
-diagnostics.html
-
-View diagnostics + filter/sort/paginate
-
-add_diagnostics.html
-
-Add diagnostics form
-
-update_diagnostics.html
-
-Update diagnostics form
-
- Getting Started
-
-1. Clone This Repo
-
-git clone https://github.com/bari8333/FLASK_PROJECT.git
+### 1. Clone This Repo
+```bash
+git clone https://github.com/bari8333/FLASK-PROJECT.git
 cd FLASK_PROJECT
+````
 
-2. Create a Virtual Environment
+### 2. Create Virtual Environment
 
+```bash
 python -m venv venv
-# On Windows
-venv\Scripts\activate
+venv\Scripts\activate   # On Windows
+# OR
+source venv/bin/activate  # On Linux/macOS
+```
 
+### 3. Install Dependencies
 
-3. Install Dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
-4. Run the App
+### 4. Run the App
 
+```bash
 flask run
+```
 
-Open http://127.0.0.1:5000/ in your browser.
+Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
- API Endpoints
+---
 
-⚠All routes (except auth) require JWT login via cookies.
+##   API Endpoints
 
- Auth
+> ⚠️ All routes (except auth) require JWT authentication via cookies.
 
-Method
+### 🔐 Auth
 
-URL
+| Method | Endpoint    | Description   |
+| ------ | ----------- | ------------- |
+| POST   | `/register` | Register user |
+| POST   | `/login`    | Login user    |
+| GET    | `/logout`   | Logout user   |
 
-Description
+### 🛠️ Devices
 
-POST
+| Method | Endpoint              | Description      |
+| ------ | --------------------- | ---------------- |
+| GET    | `/device/home`        | List devices     |
+| GET    | `/device/add`         | Show add form    |
+| POST   | `/device/add`         | Add new device   |
+| GET    | `/device/update/<id>` | Show update form |
+| POST   | `/device/update/<id>` | Update device    |
+| GET    | `/device/delete/<id>` | Delete device    |
 
-/register
+### 📊 Diagnostics
 
-Register a user
+| Method | Endpoint                   | Description           |
+| ------ | -------------------------- | --------------------- |
+| GET    | `/diagnostics/home`        | List diagnostics      |
+| GET    | `/diagnostics/add`         | Show add form         |
+| POST   | `/diagnostics/add`         | Add diagnostic record |
+| GET    | `/diagnostics/update/<id>` | Show update form      |
+| POST   | `/diagnostics/update/<id>` | Update diagnostics    |
+| GET    | `/diagnostics/delete/<id>` | Delete diagnostics    |
 
-POST
+---
 
-/login
+##   Database Models
 
-Log in
+### `User`
 
-GET
+* `id`: Primary key
+* `username`: Unique
+* `password`: Hashed
 
-/logout
+### `Device`
 
-Log out
+* `id`, `name`, `device_type`, `status`, `location`
+* `user_id`: FK to User
 
- Devices
+### `DeviceDiagnostics`
 
-Method
+* `id`, `device_id`, `cpu_usage`, `memory_usage`, `timestamp`
 
-URL
+---
 
-Description
+## 🛠 Dev Notes
 
-GET
+* Logs stored in `logs/app.log`
+* Frontend powered by Bootstrap 5
+* JWT handled via `flask_jwt_extended`
+* Optional: Use Flask-Migrate
 
-/device/home
-
-List all devices
-
-GET
-
-/device/add
-
-Add form
-
-POST
-
-/device/add
-
-Create new device
-
-GET
-
-/device/update/<id>
-
-Edit form
-
-POST
-
-/device/update/<id>
-
-Update device
-
-GET
-
-/device/delete/<id>
-
-Delete device
-
- Diagnostics
-
-Method
-
-URL
-
-Description
-
-GET
-
-/diagnostics/home
-
-Diagnostics list
-
-GET
-
-/diagnostics/add
-
-Add form
-
-POST
-
-/diagnostics/add
-
-Create diagnostics
-
-GET
-
-/diagnostics/update/<id>
-
-Edit diagnostics
-
-POST
-
-/diagnostics/update/<id>
-
-Update diagnostics
-
-GET
-
-/diagnostics/delete/<id>
-
-Delete diagnostics entry
-
- Database Models
-
-User
-
-id: primary key
-
-username: unique
-
-password: securely hashed
-
-Device
-
-id, name, device_type, status, location
-
-user_id: foreign key to user
-
-DeviceDiagnostics
-
-id, device_id, cpu_usage, memory_usage, timestamp
-
- Developer Notes
-
-Logs are saved in: logs/app.log
-
-Bootstrap 5 used for layout and design
-
-JWT management via flask_jwt_extended
-
-Migrations (optional):
-
+```bash
 flask db init
 flask db migrate -m "Initial migration"
 flask db upgrade
+```
 
+---
 
-    Screenshots
+##   Screenshots
 
+![Home page](<Screenshot 2025-06-27 212241.png>)![Login Page](<Screenshot 2025-06-27 212626.png>)![Register Page](<Screenshot 2025-06-27 215242.png>)  ![Device home page ](<Screenshot 2025-06-27 212334.png>)  ![Diagnostics home page](<Screenshot 2025-06-27 212542.png>) ![Upadate Device](<Screenshot 2025-06-27 212657.png>)  ![Add Device](<Screenshot 2025-06-27 212452.png>)
 
-![alt text](<Screenshot 2025-06-27 212542.png>) ![alt text](<Screenshot 2025-06-27 212626.png>) ![alt text](<Screenshot 2025-06-27 212657.png>) ![alt text](<Screenshot 2025-06-27 215242.png>) ![alt text](<Screenshot 2025-06-27 212241.png>) ![alt text](<Screenshot 2025-06-27 212334.png>) ![alt text](<Screenshot 2025-06-27 212452.png>)
+---
 
+##  Built With
 
- Author
+* Flask
+* Bootstrap 5
+* Flask-JWT-Extended
+* Flask-SQLAlchemy
+* Flask-Migrate
+* Marshmallow
 
-Abdul Bari MGitHub: bari8333
+---
 
- Tools & Credits
+## 👨‍💻 Author
 
-Flask
+**Abdul Bari M**
+GitHub: [bari8333](https://github.com/bari8333)
 
-Bootstrap 5
-
-Flask-JWT-Extended
-
-Flask-SQLAlchemy
-
-Flask-Migrate
-
-Marshmallow
+---
